@@ -1,6 +1,6 @@
 {
   "homepage": "https://nikhilchintawar.github.io/network-status/",
-  "name": "network",
+  "name": "network-status",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
